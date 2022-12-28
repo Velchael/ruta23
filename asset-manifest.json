@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ruta23/static/css/main.abd64e84.css",
+    "main.js": "/ruta23/static/js/main.1b6e42af.js",
+    "index.html": "/ruta23/index.html",
+    "main.abd64e84.css.map": "/ruta23/static/css/main.abd64e84.css.map",
+    "main.1b6e42af.js.map": "/ruta23/static/js/main.1b6e42af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.1b6e42af.js"
+  ]
+}
