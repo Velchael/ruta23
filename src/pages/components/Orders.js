@@ -5,6 +5,7 @@ const Orders = () => {
         <div >
             <h1>Lista de ordenes</h1>
             <table >
+                
                 <tr>
                     <th>Id</th>
                     <th>Productos</th>
@@ -25,6 +26,8 @@ const Orders = () => {
                     <td>8</td>
                     <td>$ 90</td>
                 </tr>
+
+            
             </table>
         </div>
     )
