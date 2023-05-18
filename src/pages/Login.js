@@ -6,9 +6,10 @@ const Login = () => {
             <h1>Login</h1>
             <label>User</label>
             <input/>
-            <label>Home</label>
+            <label>Password</label>
             <input/>
         </div>
+
     )
 }
 
