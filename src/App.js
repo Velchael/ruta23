@@ -7,6 +7,7 @@ import Orders from './pages/components/Orders';
 import Usersniveluno from './pages/components/Usersniveluno'
 import Usersniveldos from './pages/components/Usersniveldos'
 import Usersniveltres from './pages/components/Usersniveltres'
+import Appcarousel from './pages/Appcarousel';
 function App() {
 
   const navigate = useNavigate()
@@ -17,14 +18,17 @@ function App() {
    navigate("/Dashboard")
   }
   return (
+
+
     <div>
+      <Appcarousel/> 
         <button onMouseOver={goLogin}>
           <Link to="/Login">Login </Link>
         </button>
         <button onMouseOver={goDashboard}>
           <Link to="/Dashboard">Dashboard</Link>  
         </button>
-   
+       
       <Routes>
         <Route exact path="/react-dummy" element={<Login />}></Route> 
         <Route path="/dashboard" element={<Dashboard />} >

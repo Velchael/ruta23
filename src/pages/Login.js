@@ -6,7 +6,7 @@ const Login = () => {
             <h1>Login</h1>
             <label>User</label>
             <input/>
-            <label>Password</label>
+            <label>Home</label>
             <input/>
         </div>
     )
