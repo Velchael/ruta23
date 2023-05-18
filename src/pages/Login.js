@@ -5,10 +5,12 @@ const Login = () => {
         <div >
             <h1>Login</h1>
             <label>User</label>
-            <input/>
-            <label>Password</label>
-            <input/>
+            <input />
+            <label>Contraseña</label>
+            <label>Apellido</label>
+            <input />
         </div>
+
     )
 }
 
