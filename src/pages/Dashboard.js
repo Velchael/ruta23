@@ -12,7 +12,7 @@ function Dashboard() {
     }
     return (
         <div >
-            <h1>Bienvenido al dashboard</h1>
+            <h1>........................Bienvenido al dashboard de la rama stalin.........................</h1>
             <p>React router dom</p>
             <hr />
             <div>
